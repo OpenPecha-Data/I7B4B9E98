@@ -5,11 +5,13 @@ source_metadata:
   title: འཇམ་དབྱངས་དཀོན་མཆོག་བཟང་པོའི་རྣམ་ཐར་དད་པའི་ལྗོན་ཤིང་རྒྱས་བྱེད་
   author: ''
   volumes:
-    4824de2636eb42688f82be846f635ebb:
+    431f4fb6ea354dbca27ba2deceaa2600:
       image_group_id: I1CZ1947
-      title: ''
+      title: Volume 1 of 'jam dbyangs dkon mchog bzang po'i rnam thar dad pa'i ljon
+        shing rgyas byed
       volume_number: 1
       total_pages: 172
+      base_file: v001.txt
 ebook_metadata:
   title: འཇམ་དབྱངས་དཀོན་མཆོག་བཟང་པོའི་རྣམ་ཐར་དད་པའི་ལྗོན་ཤིང་རྒྱས་བྱེད་
   author: ''
